@@ -25,6 +25,7 @@ FlightSearch/
 ├── flights.dat         # Flight connection data
 ├── requests.dat        # Sample search requests
 └── flight              # Compiled executable
+└── README.md
 ```
 ## 🛠️ Built With
 
