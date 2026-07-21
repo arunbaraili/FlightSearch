@@ -18,13 +18,13 @@ Built as a project, this was a chance to get hands-on with graph representations
 
 ## 🗂️ Project Structure
 FlightSearch/
-├── main.cpp # Program entry point
-├── flightMap.h/.cpp # Graph structure — cities, flights, and search logic
-├── type.h/.cpp # Custom data types used across the project
-├── cities.dat # City data
-├── flights.dat # Flight connection data
-├── requests.dat # Sample search requests
-└── flight # Compiled executable
+─ main.cpp # Program entry point
+─ flightMap.h/.cpp # Graph structure — cities, flights, and search logic
+─ type.h/.cpp # Custom data types used across the project
+─ cities.dat # City data
+─ flights.dat # Flight connection data
+─ requests.dat # Sample search requests
+─ flight # Compiled executable
 
 ## 🛠️ Built With
 
